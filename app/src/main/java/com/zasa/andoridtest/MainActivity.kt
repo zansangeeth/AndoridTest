@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             Toast.makeText(applicationContext, "hello", Toast.LENGTH_SHORT).show()
         }
+
+        var name = "sangeeth"
     }
 }
