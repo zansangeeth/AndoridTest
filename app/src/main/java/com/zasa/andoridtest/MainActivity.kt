@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         var occupation = "developer"
+
+        var name = "sangeeth"
     }
 }
